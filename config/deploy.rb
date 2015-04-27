@@ -1,7 +1,7 @@
 # config valid only for current version of Capistrano
 lock '3.4.0'
 
-set :application, 'Sphere CRM'
+set :application, 'crm'
 set :repo_url, 'git@github.com:spheregenomics/sphere_crm.git'
 
 # describe the rbenv environment we are deploying into
